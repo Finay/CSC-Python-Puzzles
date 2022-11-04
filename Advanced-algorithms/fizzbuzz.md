@@ -1,0 +1,1 @@
+### For all n 1 to 100 print "Fizz" if n is divisible by 3, "Buzz" if n is divisible by 5, "FizzBuzz" if divisible by 5 and 3, and n itself if none of the conditions above.

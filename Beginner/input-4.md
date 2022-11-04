@@ -1,0 +1,3 @@
+### Create a function that adds two numbers it takes as input, run the function.
+
+Wait, its kinda similar to input-3...

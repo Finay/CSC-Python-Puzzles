@@ -1,0 +1,1 @@
+### Create a program that takes an input and prints "capybara" if that number is 16.

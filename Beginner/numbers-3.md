@@ -1,0 +1,1 @@
+### Use 5 different math operators in a single line on the python command line

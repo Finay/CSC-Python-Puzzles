@@ -1,0 +1,1 @@
+### Create a program that prints the total of the numbers printed in tree-2 without printing a tree. Extra kudos if you do this without any for loops.
